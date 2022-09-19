@@ -34,11 +34,15 @@ h1{
     border-color: black;
     border-style: solid;
     margin-left: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+
 }
 .about-info-box p{
     padding-left: 3%;
     margin-bottom: 0%;
     font-size: 16px;
+    
 }
 
 
@@ -191,11 +195,28 @@ h1{
     float: right;
     margin-top: 10px;
     width: 260px;
+    height: 218px;
     text-align: left;
     border: 5px;
     border-color: black;
     border-style: solid;
     margin-right: 10%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.other-info-box p{
+    margin-left: 10px; 
+    font-size: 14px;  
+    margin-bottom: 2%;
+    margin-right: 10px;
+}
+
+.other-info-box li{
+    margin-left: 10px; 
+    font-size: 12px;  
+    margin-bottom: 2%;
+    margin-right: 10px;
 }
 
 .row:after{
